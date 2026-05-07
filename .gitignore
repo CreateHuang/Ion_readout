@@ -24,7 +24,7 @@ dist/
 
 # Data, annotations, checkpoints, generated outputs
 data/
-Data_ion_299/
+external_data/
 outputs/
 This_Work/
 runs/
