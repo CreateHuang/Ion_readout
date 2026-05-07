@@ -1,0 +1,53 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data, annotations, checkpoints, generated outputs
+data/
+Data_ion_299/
+outputs/
+This_Work/
+runs/
+wandb/
+mask_proposals/
+Pre_train/Run_pretrain*/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.mat
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.zip
+
+# Keep repository docs and source files trackable
+!README.md
+!REPRODUCIBILITY.md
+!requirements.txt
